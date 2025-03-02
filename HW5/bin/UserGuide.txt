@@ -1,0 +1,10 @@
+How to play the game:
+
+1) Go to your run configurations:
+2) Make sure the tester class is set to "tester.Main"
+3) Your program argument should be, "ExamplesZType"
+4) Launch the game!
+5) Type the first word that appears on your screen
+6) The word you will be typing will ALAWYS be the word that is at the utmost bottom of your screen
+7) You can see what you have typed next to "Typed"
+8) If you mistype, you can delete letters and continue!
